@@ -1,0 +1,15 @@
+# build output
+*.exe
+*.pdb
+
+# SolidWorks API interop assemblies (proprietary - come from your SolidWorks install)
+SolidWorks.Interop.*.dll
+
+# SolidWorks files / scratch
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+
+# local test data / logs
+newdata.txt
+*.log
